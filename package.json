@@ -1,0 +1,16 @@
+{
+  "name": "quadro-pubsub-legacy",
+  "version": "0.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/run.js test"
+  },
+  "peerDependencies": {
+    "quadro": "^2.0.0"
+  },
+  "devDependencies": {
+    "quadro": "https://github.com/igorshapiro/quadro#v2.0.0",
+    "quadro-test": "https://github.com/igorshapiro/quadro-test"
+  },
+  "dependencies": {}
+}
